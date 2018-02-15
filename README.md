@@ -2,9 +2,7 @@
 install vagrant
 cd to directory with Vagrantfile
 
-activate plugins:
-`$ vagrant plugin install vagrant-reload`
-
+activate plugin:
 `$ vagrant plugin install vagrant-vbguest`
 
 Start
