@@ -4,6 +4,7 @@ cd to directory with Vagrantfile
 
 activate plugins:
 `$ vagrant plugin install vagrant-reload`
+
 `$ vagrant plugin install vagrant-vbguest`
 
 Start
